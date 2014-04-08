@@ -6,6 +6,8 @@
 
 desktopで変更したよ
 
+hoge3を作成してから保存してみた
+
 package jp.co.nc.mill1on.common.cooperation;
 
 import java.util.ArrayList;
