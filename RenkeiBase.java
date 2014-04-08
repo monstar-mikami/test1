@@ -3,6 +3,9 @@
 
 ほげ
 
+
+desktopで変更したよ
+
 package jp.co.nc.mill1on.common.cooperation;
 
 import java.util.ArrayList;
