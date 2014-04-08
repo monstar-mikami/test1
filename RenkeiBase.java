@@ -6,7 +6,7 @@
 
 desktopで変更したよ
 
-hoge3を作成してから保存してみた
+hoge3を作成してから保存してみた これをhogeにコミット
 
 package jp.co.nc.mill1on.common.cooperation;
 
