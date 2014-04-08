@@ -1,6 +1,8 @@
 ああああ
 ピーターばん
 
+ほげ
+
 package jp.co.nc.mill1on.common.cooperation;
 
 import java.util.ArrayList;
