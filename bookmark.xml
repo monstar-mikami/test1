@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>bookmark</comment>
+<entry key="bookMark4.path">82,2666,2755,2756,2760,2757</entry>
+<entry key="bookMark1.title">通信設備（LAN)</entry>
+<entry key="bookMark1.path">82,2666,2723,2733</entry>
+<entry key="bookMark3.title">test</entry>
+<entry key="bookMark5.path">82,2666,2677,2684,2693,2690</entry>
+<entry key="bookMark5.title">[ラックスペースのゲージ貸し]</entry>
+<entry key="bookMark2.path">82,2860</entry>
+<entry key="bookMark2.title">集計テスト</entry>
+<entry key="bookMark6.path">82,2666,2723,2733,2734</entry>
+<entry key="bookMark4.title">[地理的分散機能]</entry>
+<entry key="bookMark0.title">[ラックスペース貸し]</entry>
+<entry key="bookMark3.path">82</entry>
+<entry key="bookMark6.title">センタ内LANの稼動状態（死活監視）</entry>
+<entry key="bookMark0.path">82,2666,2677,2684,2693,2689</entry>
+</properties>
